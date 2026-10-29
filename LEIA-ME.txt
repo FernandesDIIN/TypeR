@@ -1,0 +1,6 @@
+TypeR Personalizado 1.0.10
+
+Extraia tudo, feche o Photoshop e execute Instalar.cmd nesta pasta.
+
+Zoom: 15%, 25%, 45%, 50%, 55%, 60%, 65%, 70%, 75%, 80%, 85%, 90%, 95%, 100%.
+Botoes e roda percorrem essa lista. Valores digitados usam o permitido mais proximo.

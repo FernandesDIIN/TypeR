@@ -1,0 +1,17 @@
+{
+  "name": "TypeR Personalizado",
+  "version": "1.0.10",
+  "upstreamVersion": "2.5.0",
+  "previousPackage": "TypeR Personalizado 1.0.9",
+  "features": [
+    "Multi páginas",
+    "Controles de grupos",
+    "Limpeza de marcações corrigida",
+    "Ajuste de tamanho fracionário e cliques acumulados",
+    "Incremento pela roda do mouse",
+    "Tamanho por trecho com verificação e botão Alinhamento removido",
+    "Visibilidade da segunda imagem em todas as paginas",
+    "Zoom da pagina com botoes e roda em valores fixos 15, 25, 45 e de 5 em 5 ate 100%"
+  ],
+  "note": "Zoom ate 100%, mantendo 15, 25, 45, e passos de 5 a partir de 45%."
+}
